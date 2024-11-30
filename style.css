@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(46, 40, 40);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+
+.infotext {
+
+    color: white;
+    font-size: 0.9em;
+    margin-top: 200px;
+}
+
+.basic {
+    text-align: center;
+    
+}
+
+.aka {
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+
+.rol {
+    text-align: center;
+    color: bisque;
+    margin-top: 350px;
+}
+
+#github {
+    color: white;
+    margin-right: 50px;
+}
+
+#insta {
+    color: white;
+}
+
+#yt {
+    color: white;
+    margin-left: 50px;
+}
+
+#discord {
+    color: white;
+    margin-left: 50px;
+}
+
+#c {
+    text-decoration: none;
+    color: black;
+}
+
+#cx {
+    margin-top: 20%;
+    font-style: italic;
+    text-align: center;
+}
+
+
